@@ -1,3 +1,4 @@
+import './js/classes.ts'
 
 function App() {
   return (
