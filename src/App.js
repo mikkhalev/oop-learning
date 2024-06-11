@@ -1,4 +1,5 @@
-import './js/classes.ts'
+import './js/encapsulation.ts'
+import './js/inheritance.ts'
 
 function App() {
   return (
